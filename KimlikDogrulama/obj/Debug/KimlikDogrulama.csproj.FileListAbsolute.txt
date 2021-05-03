@@ -1,0 +1,7 @@
+C:\Users\Ahoi\source\repos\KimlikDogrulama\KimlikDogrulama\bin\Debug\KimlikDogrulama.exe.config
+C:\Users\Ahoi\source\repos\KimlikDogrulama\KimlikDogrulama\bin\Debug\KimlikDogrulama.exe
+C:\Users\Ahoi\source\repos\KimlikDogrulama\KimlikDogrulama\bin\Debug\KimlikDogrulama.pdb
+C:\Users\Ahoi\source\repos\KimlikDogrulama\KimlikDogrulama\obj\Debug\KimlikDogrulama.csprojAssemblyReference.cache
+C:\Users\Ahoi\source\repos\KimlikDogrulama\KimlikDogrulama\obj\Debug\KimlikDogrulama.csproj.CoreCompileInputs.cache
+C:\Users\Ahoi\source\repos\KimlikDogrulama\KimlikDogrulama\obj\Debug\KimlikDogrulama.exe
+C:\Users\Ahoi\source\repos\KimlikDogrulama\KimlikDogrulama\obj\Debug\KimlikDogrulama.pdb

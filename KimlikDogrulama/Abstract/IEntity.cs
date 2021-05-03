@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace KimlikDogrulama.Abstract
+﻿namespace KimlikDogrulama.Abstract
 {
- public   interface IEntity
+    /// <summary>
+    /// Veritabanı nesnelerini işaret etmek için oluşturulmuş olan interface
+    /// </summary>
+    public interface IEntity
     {
     }
 }

@@ -1,13 +1,10 @@
 ﻿using KimlikDogrulama.Abstract;
 using KimlikDogrulama.Entities;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace KimlikDogrulama.Concrete
 {
+
     public class StarbucksCustomerManager : BaseCustomerManager
     {
         ICustomerCheckService _customerCheckService;
@@ -19,7 +16,7 @@ namespace KimlikDogrulama.Concrete
 
         public override void Save(Customer customer)
         {
-            if (_customerCheckService.CheckIfRealPerson(customer)==true)
+            if (_customerCheckService.CheckIfRealPerson(customer) == true)
             {
                 base.Save(customer);
             }
